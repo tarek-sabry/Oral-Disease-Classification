@@ -7,7 +7,7 @@ This project focuses on classifying oral diseases from dental and oral images us
 The main objective is to develop and compare multiple Convolutional Neural Network (CNN) models, optimize model performance through Hyperparameter Tuning, and deploy the best-performing model using Streamlit.
 
 ## 🎯 Project Objectives
- LINK Kaggle / https://www.kaggle.com/code/tareksabry/notebook4b233f9618
+ LINK Project Kaggle / https://www.kaggle.com/code/tareksabry/notebook4b233f9618
 - Build a Custom CNN model for image classification.
 - Apply Transfer Learning using pretrained models.
 - Compare different Deep Learning architectures.
